@@ -187,25 +187,13 @@ body {
     text-transform: uppercase;
     font-size: 12px;
     font-weight: bold;
+    line-height: 1;
+    box-shadow: 0 8px 43px 0 rgba(255, 107, 8, 0.588);
 }
 
 .widget {
     padding-left: 40px;
     min-height: 60px;
-}
-
-.widget-link {
-    padding: 20px 43px;
-
-    text-decoration: none;
-    text-transform: uppercase;
-    font-size: 12px;
-    font-weight: bold;
-    line-height: 1;
-
-    color: #fff;
-    background-color: #ff6b08;
-    box-shadow: 0 8px 43px 0 rgba(255, 107, 8, 0.588);
 }
 
 .widget-link:hover {
