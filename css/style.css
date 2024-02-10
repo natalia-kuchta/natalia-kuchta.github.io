@@ -211,3 +211,6 @@ body {
 .widget:hover {
     animation: heartBeat 1s;
 }
+.text-justify{
+    text-align: justify;
+}
